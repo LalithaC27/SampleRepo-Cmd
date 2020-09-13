@@ -1,2 +1,6 @@
 This is index.jsp
+<<<<<<< HEAD
 THIS IS COMMAND LINE DEMO DEV-1
+=======
+THIS IS COMMAND LINE DEMO DEV-2
+>>>>>>> B-2
